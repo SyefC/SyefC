@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @SyefC
+- 👀 I’m interested in: C and C++
+- 🌱 I’m currently learning: C
+- 💞️ I’m looking to collaborate on: games
+- 📫 How to reach me: Youtube
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I learn C
