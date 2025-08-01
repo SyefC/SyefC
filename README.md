@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SyefC
 - 👀 I’m interested in: C, C++, Python, And Rust
-- 🌱 I’m currently learning: C and Python
-- 💞️ I’m looking to collaborate on: Some Project
+- 🌱 I’m currently learning: C, Python, C++
+- 💞️ I’m looking to collaborate on: Some Beginners/Intermidiate Project
 - 📫 How to reach me: Youtube
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I learn C
+- ⚡ Fun fact: I learn C/C++
